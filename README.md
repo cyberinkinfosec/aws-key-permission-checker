@@ -40,7 +40,7 @@ pip install flask boto3
 ## Usage
 
 ```bash
-python3 app.py
+python3 IAM-checker.py
 ```
 
 Then open `http://127.0.0.1:5000` in your browser.
