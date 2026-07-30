@@ -45,6 +45,8 @@ python3 IAM-checker.py
 
 Then open `http://127.0.0.1:5000` in your browser.
 
+![Project Screenshot](img/AWS%20DS.PNG)
+
 ## Notes
 
 - Intended for local/authorized use only during sanctioned assessments — there's no auth layer on the dashboard itself, so don't expose it on a public interface.
